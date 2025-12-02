@@ -12,7 +12,7 @@ const personalDetails = {
     name: "Pulakesh Deb Roy",
     title: "Full Stack Developer | Problem Solver",
     tagline: "Building elegant solutions to complex problems",
-    bio: "Passionate software engineer with 5+ years of experience in building scalable web applications. I love turning ideas into reality through clean, efficient code. When I'm not coding, you'll find me exploring new technologies or contributing to open-source projects.",
+    bio: "Passionate software engineer Aspiring Software Engineer with a strong foundation in building web applications. I love turning concepts into reality through clean, efficient code and creative problem-solving. When I'm not coding, you'll find me upskilling in new technologies or exploring open-source communities.",
     email: "pulakesh2609@gmail.com",
     social: {
         github: "https://github.com/pulakesh2609",

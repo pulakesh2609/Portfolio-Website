@@ -2,8 +2,6 @@
 
 A modern, responsive personal portfolio website built with React and Tailwind CSS, featuring stunning animations, dark mode aesthetics, and a clean single-file architecture.
 
-![Portfolio Hero Section](./screenshots/hero.png)
-
 ## ✨ Features
 
 - 🎨 **Modern Dark Mode Design** - Sleek slate/gray backgrounds with emerald/cyan gradient accents
@@ -46,15 +44,6 @@ A modern, responsive personal portfolio website built with React and Tailwind CS
 - Copyright information
 
 ## 🖼️ Screenshots
-
-### Desktop View
-![Hero and Navbar](./screenshots/hero.png)
-![About and Skills](./screenshots/about-skills.png)
-![Projects](./screenshots/projects.png)
-![Contact](./screenshots/contact.png)
-
-### Mobile View
-![Mobile Responsive](./screenshots/mobile.png)
 
 ## 🚀 Tech Stack
 
@@ -207,3 +196,6 @@ Contributions, issues, and feature requests are welcome!
 ⭐ **Star this repo if you found it helpful!**
 
 Made with ❤️ using React & Tailwind CSS
+
+
+
