@@ -13,7 +13,6 @@ A modern, responsive personal portfolio website built with React and Tailwind CS
 - 🚀 **Fast Performance** - Built with Vite for lightning-fast development and builds
 
 ## 🎨 Sections
-
 ### 🏠 Hero Section
 - Large gradient name display
 - Continuous typing animation for title
