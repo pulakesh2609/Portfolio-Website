@@ -45,6 +45,15 @@ A modern, responsive personal portfolio website built with React and Tailwind CS
 
 ## 🖼️ Screenshots
 
+
+### Desktop View
+![About and Skills](./screenshots/about-skills.png)
+![Projects](./screenshots/projects.png)
+![Contact](./screenshots/contact.png)
+
+### Mobile View
+![Mobile Responsive](./screenshots/mobile.png)
+
 ## 🚀 Tech Stack
 
 - **Frontend Framework:** React 18.2
@@ -155,18 +164,6 @@ portfolio-website/
 
 ## 🌐 Deployment
 
-### Deploy to Vercel
-```bash
-npm install -g vercel
-vercel
-```
-
-### Deploy to Netlify
-```bash
-npm run build
-# Drag and drop the 'dist' folder to Netlify
-```
-
 ### Deploy to GitHub Pages
 ```bash
 npm install gh-pages --save-dev
@@ -196,6 +193,3 @@ Contributions, issues, and feature requests are welcome!
 ⭐ **Star this repo if you found it helpful!**
 
 Made with ❤️ using React & Tailwind CSS
-
-
-
