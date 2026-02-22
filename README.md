@@ -1,4 +1,4 @@
-# 🌟 Personal Portfolio Website
+# Personal Portfolio Website
 
 A modern, responsive personal portfolio website built with React and Tailwind CSS, featuring stunning animations, dark mode aesthetics, and a clean single-file architecture.
 
